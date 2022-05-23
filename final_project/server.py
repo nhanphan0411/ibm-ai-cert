@@ -25,6 +25,3 @@ def renderIndexPage():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8080)
-
-git config --global user.email nhanphan0411@gmail.com
-git config --global user.name nhanphan0411
